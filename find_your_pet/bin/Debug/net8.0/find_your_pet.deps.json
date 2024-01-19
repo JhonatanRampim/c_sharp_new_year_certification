@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "find_your_pet/1.0.0": {
+        "runtime": {
+          "find_your_pet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "find_your_pet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

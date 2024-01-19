@@ -1,0 +1,14 @@
+D:\projects\CSharpProjects\exercises\bin\Debug\net8.0\exerises.exe
+D:\projects\CSharpProjects\exercises\bin\Debug\net8.0\exerises.deps.json
+D:\projects\CSharpProjects\exercises\bin\Debug\net8.0\exerises.runtimeconfig.json
+D:\projects\CSharpProjects\exercises\bin\Debug\net8.0\exerises.dll
+D:\projects\CSharpProjects\exercises\bin\Debug\net8.0\exerises.pdb
+D:\projects\CSharpProjects\exercises\obj\Debug\net8.0\exerises.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\CSharpProjects\exercises\obj\Debug\net8.0\exerises.AssemblyInfoInputs.cache
+D:\projects\CSharpProjects\exercises\obj\Debug\net8.0\exerises.AssemblyInfo.cs
+D:\projects\CSharpProjects\exercises\obj\Debug\net8.0\exerises.csproj.CoreCompileInputs.cache
+D:\projects\CSharpProjects\exercises\obj\Debug\net8.0\exerises.dll
+D:\projects\CSharpProjects\exercises\obj\Debug\net8.0\refint\exerises.dll
+D:\projects\CSharpProjects\exercises\obj\Debug\net8.0\exerises.pdb
+D:\projects\CSharpProjects\exercises\obj\Debug\net8.0\exerises.genruntimeconfig.cache
+D:\projects\CSharpProjects\exercises\obj\Debug\net8.0\ref\exerises.dll

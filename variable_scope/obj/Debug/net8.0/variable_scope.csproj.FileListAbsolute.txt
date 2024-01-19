@@ -1,0 +1,14 @@
+D:\projects\CSharpProjects\variable_scope\obj\Debug\net8.0\variable_scope.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\CSharpProjects\variable_scope\obj\Debug\net8.0\variable_scope.AssemblyInfoInputs.cache
+D:\projects\CSharpProjects\variable_scope\obj\Debug\net8.0\variable_scope.AssemblyInfo.cs
+D:\projects\CSharpProjects\variable_scope\obj\Debug\net8.0\variable_scope.csproj.CoreCompileInputs.cache
+D:\projects\CSharpProjects\variable_scope\bin\Debug\net8.0\variable_scope.exe
+D:\projects\CSharpProjects\variable_scope\bin\Debug\net8.0\variable_scope.deps.json
+D:\projects\CSharpProjects\variable_scope\bin\Debug\net8.0\variable_scope.runtimeconfig.json
+D:\projects\CSharpProjects\variable_scope\bin\Debug\net8.0\variable_scope.dll
+D:\projects\CSharpProjects\variable_scope\bin\Debug\net8.0\variable_scope.pdb
+D:\projects\CSharpProjects\variable_scope\obj\Debug\net8.0\variable_scope.dll
+D:\projects\CSharpProjects\variable_scope\obj\Debug\net8.0\refint\variable_scope.dll
+D:\projects\CSharpProjects\variable_scope\obj\Debug\net8.0\variable_scope.pdb
+D:\projects\CSharpProjects\variable_scope\obj\Debug\net8.0\variable_scope.genruntimeconfig.cache
+D:\projects\CSharpProjects\variable_scope\obj\Debug\net8.0\ref\variable_scope.dll

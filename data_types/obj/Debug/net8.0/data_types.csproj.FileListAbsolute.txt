@@ -1,0 +1,14 @@
+D:\projects\CSharpProjects\data_types\bin\Debug\net8.0\data_types.exe
+D:\projects\CSharpProjects\data_types\bin\Debug\net8.0\data_types.deps.json
+D:\projects\CSharpProjects\data_types\bin\Debug\net8.0\data_types.runtimeconfig.json
+D:\projects\CSharpProjects\data_types\bin\Debug\net8.0\data_types.dll
+D:\projects\CSharpProjects\data_types\bin\Debug\net8.0\data_types.pdb
+D:\projects\CSharpProjects\data_types\obj\Debug\net8.0\data_types.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\CSharpProjects\data_types\obj\Debug\net8.0\data_types.AssemblyInfoInputs.cache
+D:\projects\CSharpProjects\data_types\obj\Debug\net8.0\data_types.AssemblyInfo.cs
+D:\projects\CSharpProjects\data_types\obj\Debug\net8.0\data_types.csproj.CoreCompileInputs.cache
+D:\projects\CSharpProjects\data_types\obj\Debug\net8.0\data_types.dll
+D:\projects\CSharpProjects\data_types\obj\Debug\net8.0\refint\data_types.dll
+D:\projects\CSharpProjects\data_types\obj\Debug\net8.0\data_types.pdb
+D:\projects\CSharpProjects\data_types\obj\Debug\net8.0\data_types.genruntimeconfig.cache
+D:\projects\CSharpProjects\data_types\obj\Debug\net8.0\ref\data_types.dll

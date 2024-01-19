@@ -1,0 +1,14 @@
+D:\projects\CSharpProjects\BooleanProject\bin\Debug\net8.0\BooleanProject.exe
+D:\projects\CSharpProjects\BooleanProject\bin\Debug\net8.0\BooleanProject.deps.json
+D:\projects\CSharpProjects\BooleanProject\bin\Debug\net8.0\BooleanProject.runtimeconfig.json
+D:\projects\CSharpProjects\BooleanProject\bin\Debug\net8.0\BooleanProject.dll
+D:\projects\CSharpProjects\BooleanProject\bin\Debug\net8.0\BooleanProject.pdb
+D:\projects\CSharpProjects\BooleanProject\obj\Debug\net8.0\BooleanProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\CSharpProjects\BooleanProject\obj\Debug\net8.0\BooleanProject.AssemblyInfoInputs.cache
+D:\projects\CSharpProjects\BooleanProject\obj\Debug\net8.0\BooleanProject.AssemblyInfo.cs
+D:\projects\CSharpProjects\BooleanProject\obj\Debug\net8.0\BooleanProject.csproj.CoreCompileInputs.cache
+D:\projects\CSharpProjects\BooleanProject\obj\Debug\net8.0\BooleanProject.dll
+D:\projects\CSharpProjects\BooleanProject\obj\Debug\net8.0\refint\BooleanProject.dll
+D:\projects\CSharpProjects\BooleanProject\obj\Debug\net8.0\BooleanProject.pdb
+D:\projects\CSharpProjects\BooleanProject\obj\Debug\net8.0\BooleanProject.genruntimeconfig.cache
+D:\projects\CSharpProjects\BooleanProject\obj\Debug\net8.0\ref\BooleanProject.dll

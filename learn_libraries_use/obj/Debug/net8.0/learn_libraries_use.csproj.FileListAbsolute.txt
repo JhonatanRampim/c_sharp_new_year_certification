@@ -1,0 +1,14 @@
+D:\projects\CSharpProjects\learn_libraries_use\bin\Debug\net8.0\learn_libraries_use.exe
+D:\projects\CSharpProjects\learn_libraries_use\bin\Debug\net8.0\learn_libraries_use.deps.json
+D:\projects\CSharpProjects\learn_libraries_use\bin\Debug\net8.0\learn_libraries_use.runtimeconfig.json
+D:\projects\CSharpProjects\learn_libraries_use\bin\Debug\net8.0\learn_libraries_use.dll
+D:\projects\CSharpProjects\learn_libraries_use\bin\Debug\net8.0\learn_libraries_use.pdb
+D:\projects\CSharpProjects\learn_libraries_use\obj\Debug\net8.0\learn_libraries_use.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\CSharpProjects\learn_libraries_use\obj\Debug\net8.0\learn_libraries_use.AssemblyInfoInputs.cache
+D:\projects\CSharpProjects\learn_libraries_use\obj\Debug\net8.0\learn_libraries_use.AssemblyInfo.cs
+D:\projects\CSharpProjects\learn_libraries_use\obj\Debug\net8.0\learn_libraries_use.csproj.CoreCompileInputs.cache
+D:\projects\CSharpProjects\learn_libraries_use\obj\Debug\net8.0\learn_libraries_use.dll
+D:\projects\CSharpProjects\learn_libraries_use\obj\Debug\net8.0\refint\learn_libraries_use.dll
+D:\projects\CSharpProjects\learn_libraries_use\obj\Debug\net8.0\learn_libraries_use.pdb
+D:\projects\CSharpProjects\learn_libraries_use\obj\Debug\net8.0\learn_libraries_use.genruntimeconfig.cache
+D:\projects\CSharpProjects\learn_libraries_use\obj\Debug\net8.0\ref\learn_libraries_use.dll

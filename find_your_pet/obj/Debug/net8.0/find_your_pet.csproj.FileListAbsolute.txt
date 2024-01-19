@@ -1,0 +1,14 @@
+D:\projects\CSharpProjects\find_your_pet\bin\Debug\net8.0\find_your_pet.exe
+D:\projects\CSharpProjects\find_your_pet\bin\Debug\net8.0\find_your_pet.deps.json
+D:\projects\CSharpProjects\find_your_pet\bin\Debug\net8.0\find_your_pet.runtimeconfig.json
+D:\projects\CSharpProjects\find_your_pet\bin\Debug\net8.0\find_your_pet.dll
+D:\projects\CSharpProjects\find_your_pet\bin\Debug\net8.0\find_your_pet.pdb
+D:\projects\CSharpProjects\find_your_pet\obj\Debug\net8.0\find_your_pet.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\CSharpProjects\find_your_pet\obj\Debug\net8.0\find_your_pet.AssemblyInfoInputs.cache
+D:\projects\CSharpProjects\find_your_pet\obj\Debug\net8.0\find_your_pet.AssemblyInfo.cs
+D:\projects\CSharpProjects\find_your_pet\obj\Debug\net8.0\find_your_pet.csproj.CoreCompileInputs.cache
+D:\projects\CSharpProjects\find_your_pet\obj\Debug\net8.0\find_your_pet.dll
+D:\projects\CSharpProjects\find_your_pet\obj\Debug\net8.0\refint\find_your_pet.dll
+D:\projects\CSharpProjects\find_your_pet\obj\Debug\net8.0\find_your_pet.pdb
+D:\projects\CSharpProjects\find_your_pet\obj\Debug\net8.0\find_your_pet.genruntimeconfig.cache
+D:\projects\CSharpProjects\find_your_pet\obj\Debug\net8.0\ref\find_your_pet.dll

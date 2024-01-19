@@ -1,0 +1,14 @@
+D:\projects\CSharpProjects\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\projects\CSharpProjects\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\projects\CSharpProjects\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\projects\CSharpProjects\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\projects\CSharpProjects\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\projects\CSharpProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\CSharpProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\projects\CSharpProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\projects\CSharpProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\projects\CSharpProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\projects\CSharpProjects\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\projects\CSharpProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\projects\CSharpProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\projects\CSharpProjects\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
