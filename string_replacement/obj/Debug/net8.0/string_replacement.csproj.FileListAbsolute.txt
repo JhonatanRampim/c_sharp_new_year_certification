@@ -1,0 +1,15 @@
+D:\projects\CSharpProjects\string_replacement\obj\Debug\net8.0\string_replacement.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\CSharpProjects\string_replacement\obj\Debug\net8.0\string_replacement.AssemblyInfoInputs.cache
+D:\projects\CSharpProjects\string_replacement\obj\Debug\net8.0\string_replacement.AssemblyInfo.cs
+D:\projects\CSharpProjects\string_replacement\obj\Debug\net8.0\string_replacement.csproj.CoreCompileInputs.cache
+D:\projects\CSharpProjects\string_replacement\obj\Debug\net8.0\string_replacement.sourcelink.json
+D:\projects\CSharpProjects\string_replacement\bin\Debug\net8.0\string_replacement.exe
+D:\projects\CSharpProjects\string_replacement\bin\Debug\net8.0\string_replacement.deps.json
+D:\projects\CSharpProjects\string_replacement\bin\Debug\net8.0\string_replacement.runtimeconfig.json
+D:\projects\CSharpProjects\string_replacement\bin\Debug\net8.0\string_replacement.dll
+D:\projects\CSharpProjects\string_replacement\bin\Debug\net8.0\string_replacement.pdb
+D:\projects\CSharpProjects\string_replacement\obj\Debug\net8.0\string_replacement.dll
+D:\projects\CSharpProjects\string_replacement\obj\Debug\net8.0\refint\string_replacement.dll
+D:\projects\CSharpProjects\string_replacement\obj\Debug\net8.0\string_replacement.pdb
+D:\projects\CSharpProjects\string_replacement\obj\Debug\net8.0\string_replacement.genruntimeconfig.cache
+D:\projects\CSharpProjects\string_replacement\obj\Debug\net8.0\ref\string_replacement.dll

@@ -1,0 +1,15 @@
+D:\projects\CSharpProjects\ChallengeMiniGame\bin\Debug\net8.0\ChallengeMiniGame.exe
+D:\projects\CSharpProjects\ChallengeMiniGame\bin\Debug\net8.0\ChallengeMiniGame.deps.json
+D:\projects\CSharpProjects\ChallengeMiniGame\bin\Debug\net8.0\ChallengeMiniGame.runtimeconfig.json
+D:\projects\CSharpProjects\ChallengeMiniGame\bin\Debug\net8.0\ChallengeMiniGame.dll
+D:\projects\CSharpProjects\ChallengeMiniGame\bin\Debug\net8.0\ChallengeMiniGame.pdb
+D:\projects\CSharpProjects\ChallengeMiniGame\obj\Debug\net8.0\ChallengeMiniGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\CSharpProjects\ChallengeMiniGame\obj\Debug\net8.0\ChallengeMiniGame.AssemblyInfoInputs.cache
+D:\projects\CSharpProjects\ChallengeMiniGame\obj\Debug\net8.0\ChallengeMiniGame.AssemblyInfo.cs
+D:\projects\CSharpProjects\ChallengeMiniGame\obj\Debug\net8.0\ChallengeMiniGame.csproj.CoreCompileInputs.cache
+D:\projects\CSharpProjects\ChallengeMiniGame\obj\Debug\net8.0\ChallengeMiniGame.sourcelink.json
+D:\projects\CSharpProjects\ChallengeMiniGame\obj\Debug\net8.0\ChallengeMiniGame.dll
+D:\projects\CSharpProjects\ChallengeMiniGame\obj\Debug\net8.0\refint\ChallengeMiniGame.dll
+D:\projects\CSharpProjects\ChallengeMiniGame\obj\Debug\net8.0\ChallengeMiniGame.pdb
+D:\projects\CSharpProjects\ChallengeMiniGame\obj\Debug\net8.0\ChallengeMiniGame.genruntimeconfig.cache
+D:\projects\CSharpProjects\ChallengeMiniGame\obj\Debug\net8.0\ref\ChallengeMiniGame.dll

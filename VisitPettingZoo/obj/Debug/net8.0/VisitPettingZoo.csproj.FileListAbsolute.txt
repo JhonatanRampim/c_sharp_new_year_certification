@@ -1,0 +1,15 @@
+D:\projects\CSharpProjects\VisitPettingZoo\bin\Debug\net8.0\VisitPettingZoo.exe
+D:\projects\CSharpProjects\VisitPettingZoo\bin\Debug\net8.0\VisitPettingZoo.deps.json
+D:\projects\CSharpProjects\VisitPettingZoo\bin\Debug\net8.0\VisitPettingZoo.runtimeconfig.json
+D:\projects\CSharpProjects\VisitPettingZoo\bin\Debug\net8.0\VisitPettingZoo.dll
+D:\projects\CSharpProjects\VisitPettingZoo\bin\Debug\net8.0\VisitPettingZoo.pdb
+D:\projects\CSharpProjects\VisitPettingZoo\obj\Debug\net8.0\VisitPettingZoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\CSharpProjects\VisitPettingZoo\obj\Debug\net8.0\VisitPettingZoo.AssemblyInfoInputs.cache
+D:\projects\CSharpProjects\VisitPettingZoo\obj\Debug\net8.0\VisitPettingZoo.AssemblyInfo.cs
+D:\projects\CSharpProjects\VisitPettingZoo\obj\Debug\net8.0\VisitPettingZoo.csproj.CoreCompileInputs.cache
+D:\projects\CSharpProjects\VisitPettingZoo\obj\Debug\net8.0\VisitPettingZoo.sourcelink.json
+D:\projects\CSharpProjects\VisitPettingZoo\obj\Debug\net8.0\VisitPettingZoo.dll
+D:\projects\CSharpProjects\VisitPettingZoo\obj\Debug\net8.0\refint\VisitPettingZoo.dll
+D:\projects\CSharpProjects\VisitPettingZoo\obj\Debug\net8.0\VisitPettingZoo.pdb
+D:\projects\CSharpProjects\VisitPettingZoo\obj\Debug\net8.0\VisitPettingZoo.genruntimeconfig.cache
+D:\projects\CSharpProjects\VisitPettingZoo\obj\Debug\net8.0\ref\VisitPettingZoo.dll

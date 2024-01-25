@@ -1,0 +1,15 @@
+D:\projects\CSharpProjects\OutputFormat\bin\Debug\net8.0\OutputFormat.exe
+D:\projects\CSharpProjects\OutputFormat\bin\Debug\net8.0\OutputFormat.deps.json
+D:\projects\CSharpProjects\OutputFormat\bin\Debug\net8.0\OutputFormat.runtimeconfig.json
+D:\projects\CSharpProjects\OutputFormat\bin\Debug\net8.0\OutputFormat.dll
+D:\projects\CSharpProjects\OutputFormat\bin\Debug\net8.0\OutputFormat.pdb
+D:\projects\CSharpProjects\OutputFormat\obj\Debug\net8.0\OutputFormat.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\CSharpProjects\OutputFormat\obj\Debug\net8.0\OutputFormat.AssemblyInfoInputs.cache
+D:\projects\CSharpProjects\OutputFormat\obj\Debug\net8.0\OutputFormat.AssemblyInfo.cs
+D:\projects\CSharpProjects\OutputFormat\obj\Debug\net8.0\OutputFormat.csproj.CoreCompileInputs.cache
+D:\projects\CSharpProjects\OutputFormat\obj\Debug\net8.0\OutputFormat.sourcelink.json
+D:\projects\CSharpProjects\OutputFormat\obj\Debug\net8.0\OutputFormat.dll
+D:\projects\CSharpProjects\OutputFormat\obj\Debug\net8.0\refint\OutputFormat.dll
+D:\projects\CSharpProjects\OutputFormat\obj\Debug\net8.0\OutputFormat.pdb
+D:\projects\CSharpProjects\OutputFormat\obj\Debug\net8.0\OutputFormat.genruntimeconfig.cache
+D:\projects\CSharpProjects\OutputFormat\obj\Debug\net8.0\ref\OutputFormat.dll
